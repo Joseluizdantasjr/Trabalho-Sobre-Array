@@ -12,3 +12,5 @@ O trabalho consiste em responder questões que envolvam arrays, em códigos na l
 4)  Faça um algoritmo em C que preencha dois vetores A e B (TAMANHO: 5) com valores inteiros. Depois de preencher os vetores A e B, exiba um vetor C, sendo que C = 3 * A ̶ B.
 ### Escrever um programa que leia várias mensagens (uma por uma) e:
 5) Exiba cada mensagem com um espaço em branco entre todos os caracteres. Pare o programa quando for digitada a palavra “FIM”.
+### Escrever um programa em C que leia uma mensagem e:
+6) Exiba a frequência (número de ocorrência) de cada caractere da mensagem. Exemplo de saída: "UVV - CIENCIA DA COMPUTACAO" ('U': 2, 'V': 2, ' ': 4, '-': 1, 'C': 4, 'I': 2, 'E': 1, 'N': 1, 'A': 4, 'D': 1, 'O': 2, 'M': 1, 'P': 1, 'U': 1, 'T': 1).
